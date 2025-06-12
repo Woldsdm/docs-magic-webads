@@ -11,7 +11,7 @@ Welcome to the official documentation for Magic WebAds.
 
 ## 📌 Versions
 
-For other versions, visit the [versions list](https://github.com/Woldsdm/wold.magic.webads.docs/blob/main/versions.md).
+For other versions, visit the [versions list](https://github.com/Woldsdm/docs-magic-webads/blob/main/versions.md).
 
 ---
 
