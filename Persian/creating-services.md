@@ -21,7 +21,7 @@
 
 ## 🖼 نمای کلی از سرویس
 
-![نمای کامل از Inspector سرویس](Images/service-full-view.png)
+![نمای کامل از Inspector سرویس](../Images/service-full-view.png)
 
 ---
 

@@ -19,7 +19,7 @@ In the **Magic WebAds** package, you can create different ad services using `Scr
 
 ## 🖼 Full View of the Service Inspector
 
-![Full view of the service inspector](Images/service-full-view.png)
+![Full view of the service inspector](../Images//service-full-view.png)
 
 ---
 
