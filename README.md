@@ -4,8 +4,8 @@ Welcome to the official documentation for Magic WebAds.
 
 ## 🌐 Languages / زبان‌ها
 
-- [🗽 English](./English/README.md)
-- [🏛️ پارسی](./Persian/README.md)
+- [🗽 English](https://github.com/Woldsdm/docs-magic-webads/blob/v1.0.1/English/README.md)
+- [🏛️ پارسی](https://github.com/Woldsdm/docs-magic-webads/blob/v1.0.1/Persian/README.md)
 
 ---
 
