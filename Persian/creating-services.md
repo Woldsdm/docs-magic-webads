@@ -21,7 +21,9 @@
 
 ## 🖼 نمای کلی از سرویس
 
+<div dir="rtl">
 ![نمای کامل از Inspector سرویس](../Images/service-full-view.png)
+</div>
 
 ---
 
