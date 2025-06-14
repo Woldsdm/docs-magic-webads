@@ -6,10 +6,10 @@ The `UIAdView` component displays ads inside your UI canvas. It is highly config
 
 ## ✅ How to Add UIAdView from Hierarchy Menu
 
-1. In Unity Editor, go to:
+1. Right-click in Hierarchy or use the menu:
 
 ```
-GameObject > UI > Magic WebAds > UI Ad View
+UI > Magic WebAds > UI Ad View
 ```
 
 2. This creates a GameObject named **UI Ad View** with the necessary components and attaches it to a Canvas automatically (creates one if none exists).
