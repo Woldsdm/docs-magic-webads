@@ -16,6 +16,8 @@ To add this component to your scene:
 Magic WebAds > WebAds Manager
 ```
 
+4. Add the ad services you created earlier (ScriptableObjects of type `Service`) to the `Services` list in the Inspector
+
 📸 Screenshot of the WebAdsManager in the Inspector:
 
 ![WebAdsManager](../Images/webadsmanager-inspector.png)
