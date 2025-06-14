@@ -1,12 +1,14 @@
 # تنظیمات Canvas برای تبلیغات
 
 <div dir="rtl">
+
 برای نمایش تبلیغات با WebView در پکیج Magic WebAds، باید یک **Canvas جداگانه** مخصوص تبلیغات بسازید.
 
 ---
 
 ## ✅ مراحل ساخت Canvas تبلیغات
 
+<div dir="rtl">
 1. از منوی **Hierarchy**، یک **UI Canvas** جدید اضافه کنید
 2. **Canvas** را انتخاب کنید و در پنجره **Inspector**:
 
@@ -14,6 +16,7 @@
    * بخش **Canvas Scaler** را باز کنید و مقدار **UI Scale Mode** را روی **Scale With Screen Size** تنظیم کنید
    * گزینه **Match** را روی **Width Or Height** قرار دهید (مثلاً مقدار 0.5)
    * **Reference Resolution** را روی **640 x 360** تنظیم کنید
+</div>
 
 > ⚠️ این تنظیمات و ابعاد خیلی مهم هستند تا نمایش WebView روی اندروید با پیکسل‌های HTML و CSS همخوانی کامل داشته باشد.
 
