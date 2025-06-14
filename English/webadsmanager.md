@@ -8,7 +8,7 @@ The `WebAdsManager` is a **singleton component** that clones ad services (`Servi
 
 To add this component to your scene:
 
-1. Create a **GameObject** (e.g., name it `AdManager`)
+1. Create a **GameObject** (e.g., name it `WebAds Manager`)
 2. In the **Inspector**, click `Add Component`
 3. Navigate to:
 
