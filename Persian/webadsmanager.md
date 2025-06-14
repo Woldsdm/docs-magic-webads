@@ -20,7 +20,8 @@ Magic WebAds > WebAds Manager
 
 4. سرویس‌های تبلیغاتی که قبلاً ساختید (ScriptableObjectهای `Service`) رو به لیست `Services` در Inspector اضافه کنید
 
-📸 تصویر کامپوننت WebAdsManager در اینسپکتور:
+
+## 📸 تصویر کامپوننت WebAdsManager در اینسپکتور:
 
 <p dir="rtl">
 <img src="../Images/webadsmanager-inspector.png" alt="WebAdsManager Inspector">
