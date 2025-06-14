@@ -8,9 +8,13 @@
 ## ✅ مراحل ساخت WebAdSettings
 
 ۱. کلیک راست در پنجره `Project`
+
 ۲. مسیر `Create > MagicWebAds > WebAdSettings` را دنبال کنید
+
 ۳. یک فایل ScriptableObject ساخته می‌شود
+
 ۴. نام آن را مثلاً بگذارید `CryptoWebSettings`
+
 ۵. سپس از طریق پنجره **Inspector** تنظیمات دلخواه را انجام دهید
 
 ---
