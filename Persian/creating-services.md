@@ -21,7 +21,9 @@
 
 ## 🖼 نمای کلی از سرویس
 
-![نمای کامل از Inspector سرویس](../Images/service-full-view.png)
+<p dir="rtl">
+<img src="../Images/service-full-view.png" alt="نمای کامل از Inspector سرویس">
+</p>
 
 ---
 
