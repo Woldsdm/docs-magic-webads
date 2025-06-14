@@ -18,6 +18,12 @@ GameObject > UI > Magic WebAds > UI Ad View
 
 ---
 
+## 📸 Screenshot of UIAdView Inspector:
+
+![UIAdView Inspector](../Images/uiadview-inspector.png)
+
+---
+
 ## 🗂 Inspector Fields
 
 | Field           | Type               | Description                                                                                   |
@@ -30,12 +36,6 @@ GameObject > UI > Magic WebAds > UI Ad View
 | `filters`       | `List<string>`     | Filters the ads by name to show only matching ads.                                           |
 | `adButtons`     | `List<AdButton>`   | Buttons that can trigger ad actions (e.g., click, skip).                                     |
 | `listener`      | `UIAdListener`     | Contains all WebView callback events.                                                        |
-
----
-
-## 📸 Screenshot of UIAdView Inspector:
-
-![UIAdView Inspector](../Images/uiadview-inspector.png)
 
 ---
 

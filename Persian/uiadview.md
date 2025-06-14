@@ -20,6 +20,14 @@ GameObject > UI > Magic WebAds > UI Ad View
 
 ---
 
+## 📸 تصویر Inspector UIAdView:
+
+<p dir="rtl">
+<img src="../Images/uiadview-inspector.png" alt="UIAdView Inspector">
+</p>
+
+---
+
 ## 🗂 فیلدهای Inspector
 
 | فیلد           | نوع                | توضیح                                                                                  |
@@ -32,14 +40,6 @@ GameObject > UI > Magic WebAds > UI Ad View
 | `filters`      | `List<string>`     | فیلتر تبلیغات بر اساس نام، فقط تبلیغات مطابق را نمایش می‌دهد.                        |
 | `adButtons`    | `List<AdButton>`   | دکمه‌هایی که می‌توانند عملیات روی تبلیغ مثل کلیک یا رد کردن را فعال کنند.           |
 | `listener`     | `UIAdListener`     | شامل تمامی callbackهای WebView است.                                                  |
-
----
-
-## 📸 تصویر Inspector UIAdView:
-
-<p dir="rtl">
-<img src="../Images/uiadview-inspector.png" alt="UIAdView Inspector">
-</p>
 
 ---
 
