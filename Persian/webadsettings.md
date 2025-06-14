@@ -17,7 +17,7 @@
 
 ## 🖼 تصویر کامل از Inspector
 
-![تصویر WebAdSettings Inspector](../Images/webadsettings-inspector.png)
+![تصویر](../Images/webadsettings-inspector.png)
 
 ---
 
