@@ -29,8 +29,8 @@ UI > Magic WebAds > UI Ad View
 | Field           | Type               | Description                                                                                   |
 |-----------------|--------------------|-----------------------------------------------------------------------------------------------|
 | `color`         | `Color`            | Used only in Editor to help design and align ad view dimensions (not visible during runtime).|
-| `launchOnEnable` | `bool`             | If true, ad loading will start when the object is enabled.                                   |
-| `loadOnEnable`   | `bool`             | If true, the ad request loads automatically when enabled.                                    |
+| `launchOnEnable` | `bool`             | If true, Automatically initializes and launches the ad system.                              |
+| `loadOnEnable`   | `bool`             | If true, the ad request loads automatically when enabled.                                   |
 | `showOnLoad`    | `bool`             | Automatically show the ad when loading completes.                                            |
 | `hideWhenDisabled` | `bool`          | Hide the ad view when the GameObject is disabled.                                            |
 | `filters`       | `List<string>`     | Filters the ads by name to show only matching ads.                                           |
