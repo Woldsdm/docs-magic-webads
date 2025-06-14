@@ -45,4 +45,4 @@ In the **Magic WebAds** package, the `WebAdSettings` is a `ScriptableObject` tha
 ---
 
 ## 🧩 Next Up:
-📄 [Next: Canvas Configuration Guide](canvas-setup.md)
+📄 [Next: WebAdsManager Component](webadsmanager.md)
