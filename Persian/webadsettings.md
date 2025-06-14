@@ -1,7 +1,7 @@
 # ⚙️ تنظیمات WebAdSettings
 
 <div dir="rtl">
-در بسته‌ی **Magic WebAds**، فایل WebAdSettings یک `ScriptableObject` است که تنظیمات رفتار و ظاهر تبلیغ WebView را مشخص می‌کند. این تنظیمات برای هر درخواست یا سرویس تبلیغاتی قابل اشتراک‌گذاری است.
+در بسته‌ی Magic WebAds، فایل WebAdSettings یک `ScriptableObject` است که تنظیمات رفتار و ظاهر تبلیغ WebView را مشخص می‌کند. این تنظیمات برای هر درخواست یا سرویس تبلیغاتی قابل اشتراک‌گذاری است.
 
 ---
 
@@ -10,7 +10,7 @@
 1. کلیک راست در پنجره `Project`
 2. مسیر زیر را دنبال کنید:
 
-> `ایجاد > Magic WebAds > WebAdSettings`
+> `Create > MagicWebAds > WebAdSettings`
 
 3. یک فایل ScriptableObject ساخته می‌شود
 4. نام آن را مثلاً بگذارید `CryptoWebSettings`

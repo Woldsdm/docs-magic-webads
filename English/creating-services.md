@@ -9,7 +9,7 @@ In the **Magic WebAds** package, you can create different ad services using `Scr
 1. Right-click inside the `Project` window  
 2. Navigate through:
 
-> `Create > Magic WebAds > New WebAd Service`
+> `Create > MagicWebAds > Service`
 
 3. A new `ScriptableObject` file will be created  
 4. Rename it to something like `CryptoAdsService`  

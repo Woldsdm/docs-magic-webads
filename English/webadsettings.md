@@ -9,7 +9,7 @@ In the **Magic WebAds** package, the `WebAdSettings` is a `ScriptableObject` tha
 1. Right-click inside the `Project` window
 2. Navigate to:
 
-> `Create > Magic WebAds > WebAdSettings`
+> `Create > MagicWebAds > WebAdSettings`
 
 3. A new ScriptableObject will be created
 4. Rename it (e.g. `CryptoWebSettings`)
