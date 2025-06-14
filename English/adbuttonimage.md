@@ -48,6 +48,6 @@ UI > Magic WebAds > Ad Button Image
 
 ## 📝 Notes
 
-* All sprite images used **must** have **Read/Write Enabled** checked in their import settings to avoid errors.
+* All sprite images used **must** have **Read/Write** checked in their import settings to avoid errors.
 * It is recommended that the button be a child of the `UIAdView` component for proper functioning.
 * Also, make sure to reference the button in the `adButtons` field of the `UIAdView` component via the Inspector.
