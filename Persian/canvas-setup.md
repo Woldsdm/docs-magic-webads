@@ -8,8 +8,8 @@
 
 ## ✅ مراحل ساخت Canvas تبلیغات
 
-1. ابتدا از منوی **Hierarchy**، یک **UI Canvas** جدید اضافه کنید
-2. سپس **Canvas** را انتخاب کنید و در پنجره **Inspector**:
+۱. ابتدا از منوی **Hierarchy**، یک **UI Canvas** جدید اضافه کنید
+۲. سپس **Canvas** را انتخاب کنید و در پنجره **Inspector**:
 
 * ابتدا گزینه **Render Mode** را روی **Screen Space - Overlay** بگذارید
 * سپس بخش **Canvas Scaler** را باز کنید و مقدار **UI Scale Mode** را روی **Scale With Screen Size** تنظیم کنید

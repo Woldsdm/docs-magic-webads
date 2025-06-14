@@ -10,15 +10,15 @@
 
 برای اضافه کردن این کامپوننت:
 
-1. یک **GameObject** در صحنه ایجاد کنید (مثلاً با نام `WebAds Manager`)
-2. در **Inspector** روی گزینه `Add Component` کلیک کنید
-3. به مسیر زیر بروید:
+۱. یک **GameObject** در صحنه ایجاد کنید (مثلاً با نام `WebAds Manager`)
+۲. در **Inspector** روی گزینه `Add Component` کلیک کنید
+۳. به مسیر زیر بروید:
 
 ```
 Magic WebAds > WebAds Manager
 ```
 
-4. سرویس‌های تبلیغاتی که قبلاً ساختید (ScriptableObjectهای `Service`) رو به لیست `Services` در Inspector اضافه کنید
+۴. سرویس‌های تبلیغاتی که قبلاً ساختید (ScriptableObjectهای `Service`) رو به لیست `Services` در Inspector اضافه کنید
 ---
 
 
