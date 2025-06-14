@@ -17,7 +17,7 @@
 
 ## 🖼 تصویر کامل از Inspector
 
-&#x202b;![WebAdSettings Inspector](../Images/webadsettings-inspector.png)
+<ZWSP>![WebAdSettings Inspector](../Images/webadsettings-inspector.png)
 
 ---
 
